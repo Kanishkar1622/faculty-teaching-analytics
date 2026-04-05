@@ -3,8 +3,8 @@ services:
     name: faculty-teaching-analytics
     env: node
     plan: free
-    buildCommand: npm install && npm run build
-    startCommand: npm start
+    buildCommand: pnpm install && pnpm run build
+    startCommand: pnpm start
     envVars:
       - key: NODE_VERSION
         value: 20
