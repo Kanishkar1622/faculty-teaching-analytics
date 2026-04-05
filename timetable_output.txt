@@ -1,0 +1,92 @@
+Day | Slot | Subject | Faculty
+--- | --- | --- | ---
+Monday | Slot 1 | Thermodynamics | Dr.kamalesh
+Monday | Slot 1 | Grammar | Dr.Harith
+Monday | Slot 1 | Data Structures | Dr. Sarah Johnson
+Monday | Slot 2 | Linear Algebra | Prof. Michael Chen
+Monday | Slot 2 | Machine Learning | Dr. Priya Sharma
+Monday | Slot 2 | Quantum Mechanics | Prof. James Wilson
+Monday | Slot 3 | Statistics | Dr. Emily Davis
+Monday | Slot 3 | Optics | Prof. Robert Taylor
+Monday | Slot 3 | Thermodynamics | Dr.kamalesh
+Monday | Slot 4 | Grammar | Dr.Harith
+Monday | Slot 4 | Data Structures | Dr. Sarah Johnson
+Monday | Slot 4 | Linear Algebra | Prof. Michael Chen
+Monday | Slot 5 | AI | Dr. Priya Sharma
+Monday | Slot 5 | Quantum Mechanics | Prof. James Wilson
+Monday | Slot 5 | Probability | Dr. Emily Davis
+Monday | Slot 6 | Optics | Prof. Robert Taylor
+Monday | Slot 6 | Thermodynamics | Dr.kamalesh
+Monday | Slot 6 | Grammar | Dr.Harith
+Tuesday | Slot 1 | Data Structures | Dr. Sarah Johnson
+Tuesday | Slot 1 | Calculus | Prof. Michael Chen
+Tuesday | Slot 1 | Machine Learning | Dr. Priya Sharma
+Tuesday | Slot 2 | Quantum Mechanics | Prof. James Wilson
+Tuesday | Slot 2 | Probability | Dr. Emily Davis
+Tuesday | Slot 2 | Optics | Prof. Robert Taylor
+Tuesday | Slot 3 | Thermodynamics | Dr.kamalesh
+Tuesday | Slot 3 | Grammar | Dr.Harith
+Tuesday | Slot 3 | Data Structures | Dr. Sarah Johnson
+Tuesday | Slot 4 | Linear Algebra | Prof. Michael Chen
+Tuesday | Slot 4 | Machine Learning | Dr. Priya Sharma
+Tuesday | Slot 4 | Quantum Mechanics | Prof. James Wilson
+Tuesday | Slot 5 | Probability | Dr. Emily Davis
+Tuesday | Slot 5 | Optics | Prof. Robert Taylor
+Tuesday | Slot 5 | Thermodynamics | Dr.kamalesh
+Tuesday | Slot 6 | Grammar | Dr.Harith
+Tuesday | Slot 6 | Algorithms | Dr. Sarah Johnson
+Tuesday | Slot 6 | Linear Algebra | Prof. Michael Chen
+Wednesday | Slot 1 | Machine Learning | Dr. Priya Sharma
+Wednesday | Slot 1 | Quantum Mechanics | Prof. James Wilson
+Wednesday | Slot 1 | Statistics | Dr. Emily Davis
+Wednesday | Slot 2 | Classical Mechanics | Prof. Robert Taylor
+Wednesday | Slot 2 | Thermodynamics | Dr.kamalesh
+Wednesday | Slot 2 | Grammar | Dr.Harith
+Wednesday | Slot 3 | Algorithms | Dr. Sarah Johnson
+Wednesday | Slot 3 | Calculus | Prof. Michael Chen
+Wednesday | Slot 3 | Machine Learning | Dr. Priya Sharma
+Wednesday | Slot 4 | Thermodynamics | Prof. James Wilson
+Wednesday | Slot 4 | Probability | Dr. Emily Davis
+Wednesday | Slot 4 | Classical Mechanics | Prof. Robert Taylor
+Wednesday | Slot 5 | Thermodynamics | Dr.kamalesh
+Wednesday | Slot 5 | Grammar | Dr.Harith
+Wednesday | Slot 5 | Algorithms | Dr. Sarah Johnson
+Wednesday | Slot 6 | Calculus | Prof. Michael Chen
+Wednesday | Slot 6 | Machine Learning | Dr. Priya Sharma
+Wednesday | Slot 6 | Thermodynamics | Prof. James Wilson
+Thursday | Slot 1 | Statistics | Dr. Emily Davis
+Thursday | Slot 1 | Classical Mechanics | Prof. Robert Taylor
+Thursday | Slot 1 | Thermodynamics | Dr.kamalesh
+Thursday | Slot 2 | Grammar | Dr.Harith
+Thursday | Slot 2 | Algorithms | Dr. Sarah Johnson
+Thursday | Slot 2 | Linear Algebra | Prof. Michael Chen
+Thursday | Slot 3 | Machine Learning | Dr. Priya Sharma
+Thursday | Slot 3 | Thermodynamics | Prof. James Wilson
+Thursday | Slot 3 | Statistics | Dr. Emily Davis
+Thursday | Slot 4 | Optics | Prof. Robert Taylor
+Thursday | Slot 4 | Thermodynamics | Dr.kamalesh
+Thursday | Slot 4 | Grammar | Dr.Harith
+Thursday | Slot 5 | Algorithms | Dr. Sarah Johnson
+Thursday | Slot 5 | Calculus | Prof. Michael Chen
+Thursday | Slot 5 | AI | Dr. Priya Sharma
+Thursday | Slot 6 | Quantum Mechanics | Prof. James Wilson
+Thursday | Slot 6 | Statistics | Dr. Emily Davis
+Thursday | Slot 6 | Optics | Prof. Robert Taylor
+Friday | Slot 1 | Thermodynamics | Dr.kamalesh
+Friday | Slot 1 | Grammar | Dr.Harith
+Friday | Slot 1 | Data Structures | Dr. Sarah Johnson
+Friday | Slot 2 | Linear Algebra | Prof. Michael Chen
+Friday | Slot 2 | AI | Dr. Priya Sharma
+Friday | Slot 2 | Thermodynamics | Prof. James Wilson
+Friday | Slot 3 | Statistics | Dr. Emily Davis
+Friday | Slot 3 | Classical Mechanics | Prof. Robert Taylor
+Friday | Slot 3 | Thermodynamics | Dr.kamalesh
+Friday | Slot 4 | Grammar | Dr.Harith
+Friday | Slot 4 | Algorithms | Dr. Sarah Johnson
+Friday | Slot 4 | Linear Algebra | Prof. Michael Chen
+Friday | Slot 5 | Machine Learning | Dr. Priya Sharma
+Friday | Slot 5 | Thermodynamics | Prof. James Wilson
+Friday | Slot 5 | Probability | Dr. Emily Davis
+Friday | Slot 6 | Classical Mechanics | Prof. Robert Taylor
+Friday | Slot 6 | Thermodynamics | Dr.kamalesh
+Friday | Slot 6 | Grammar | Dr.Harith
